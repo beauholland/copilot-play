@@ -36,3 +36,9 @@
   - chat: "add more parameters"
 - 02.pipeline.yml
   - chat: "create a azure devops pipeline to build an azure function run unit tests and deploy to azure"
+- 03.apim.policy.xml
+  - create an apim policy that removes specific header values based on a dynamic namedValue array of header values
+- 04 create Azure Logic App
+  - chat: /new create a new azure logic app standard with a workflow folder named getCustomer including a workflow.json with host.json extensionBundle
+  - chat: /new create c# azure function app with a http trigger
+  
