@@ -42,3 +42,4 @@
   - /new create c# azure function app with a http trigger
   - /new create a new azure logic app standard with getCustomer
   - /new car racing game
+- 06 Auto Generate Commit messages
